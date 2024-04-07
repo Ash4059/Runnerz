@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "Morning Run",
+        "startDateTime": "2024-03-17T08:00:00",
+        "completedDateTime": "2024-03-17T09:00:00",
+        "miles": 3,
+        "location": "OUTDOOR"
+    },
+    {
+        "id": 2,
+        "title": "Evening Jog",
+        "startDateTime": "2024-03-17T18:30:00",
+        "completedDateTime": "2024-03-17T19:15:00",
+        "miles": 2,
+        "location": "OUTDOOR"
+    },
+    {
+        "id": 3,
+        "title": "Trail Run",
+        "startDateTime": "2024-03-18T07:00:00",
+        "completedDateTime": "2024-03-18T08:30:00",
+        "miles": 6,
+        "location": "OUTDOOR"
+    },
+    {
+        "id": 4,
+        "title": "Treadmill Workout",
+        "startDateTime": "2024-03-18T17:30:00",
+        "completedDateTime": "2024-03-18T18:15:00",
+        "miles": 2,
+        "location": "INDOOR"
+    },
+    {
+        "id": 5,
+        "title": "Beach Jog",
+        "startDateTime": "2024-03-19T09:00:00",
+        "completedDateTime": "2024-03-19T10:00:00",
+        "miles": 4,
+        "location": "OUTDOOR"
+    },
+    {
+        "id": 6,
+        "title": "Morning Hike",
+        "startDateTime": "2024-03-20T07:30:00",
+        "completedDateTime": "2024-03-20T10:00:00",
+        "miles": 5,
+        "location": "OUTDOOR"
+    },
+    {
+        "id": 7,
+        "title": "City Run",
+        "startDateTime": "2024-03-21T17:00:00",
+        "completedDateTime": "2024-03-21T17:45:00",
+        "miles": 2,
+        "location": "INDOOR"
+    },
+    {
+        "id": 8,
+        "title": "Night Stroll",
+        "startDateTime": "2024-04-02T21:00:00",
+        "completedDateTime": "2024-04-02T22:00:00",
+        "miles": 3,
+        "location": "OUTDOOR"
+    },
+    {
+        "id": 9,
+        "title": "Trail Exploration",
+        "startDateTime": "2024-03-22T09:30:00",
+        "completedDateTime": "2024-03-22T11:00:00",
+        "miles": 4,
+        "location": "OUTDOOR"
+    },
+    {
+        "id": 10,
+        "title": "Sunset Jog",
+        "startDateTime": "2024-03-23T18:15:00",
+        "completedDateTime": "2024-03-23T19:00:00",
+        "miles": 3,
+        "location": "INDOOR"
+    }
+]
